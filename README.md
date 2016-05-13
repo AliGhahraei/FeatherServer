@@ -7,6 +7,6 @@ You only need to run `make` in the project's directory.
 # Usage
 You can access our documentation with:
   ```
-  $ ./featherServer --help
+  $ ./featherServer.out --help
   ```
 and press Ctrl + C when you want to exit.
